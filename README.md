@@ -3,7 +3,7 @@
 This repo holds code following the udemy course: The Complete JavaScript2020: Build Real Projects. Taught by Jonas Schmedtman
 
 ## Table of Contents
-    - [Section 2 - JS-Basics](#section-2---js-basics)
+- [Section 2 - JS-Basics](#section-2---js-basics)
 
 ## Section 2 - JS-Basics
 
