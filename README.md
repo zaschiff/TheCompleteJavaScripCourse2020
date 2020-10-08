@@ -3,7 +3,14 @@
 This repo holds code following the udemy course: The Complete JavaScript2020: Build Real Projects. Taught by Jonas Schmedtman
 
 ## Table of Contents
-- [Section 2 - JS-Basics](#section-2---js-basics)
+- [The Complete JavaScript Course 2020: Build Real Projects](#the-complete-javascript-course-2020-build-real-projects)
+  - [Table of Contents](#table-of-contents)
+  - [Section 2 - JS-Basics](#section-2---js-basics)
+  - [Section 3 - How JavaScript works behind the scenes](#section-3---how-javascript-works-behind-the-scenes)
+  - [Section 4 - DOM Manipulation and events](#section-4---dom-manipulation-and-events)
+  - [Section 5 - Objects and Functions](#section-5---objects-and-functions)
+  - [Section 6 - Budgety](#section-6---budgety)
+  - [Section 7 - ES6](#section-7---es6)
 
 ## Section 2 - JS-Basics
 
@@ -26,3 +33,7 @@ This sections covers the essetials of object oriented programming within javascr
 ## Section 6 - Budgety
 
 This section covers the budget appt hat tries to tie together all the concepts taught thus far into a single application. This application has advanced dom manipulation, advanced privitization amongs it's methods and variables to create a well flushed application.
+
+## Section 7 - ES6
+
+This sections covers new features that were intriduced into JavaScript version ES6. This version si not supported in older browsers but is supported in many modern ones. This new syntax gives greater contorl and privitization with in the code to make it easier for the developer to work on creating their own stylized code. There is one coding challenge designed to utilize the stronger, newer syntax of ES6.
